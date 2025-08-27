@@ -16,11 +16,11 @@ Fahrenheit=212
 #include <stdio.h>
 int main()
 {
-    int celsius, fahrenheit;
+    float celsius, fahrenheit;
     printf("Enter temperature in Celsius:\n");
-    scanf("%d", &celsius);
+    scanf("%f", &celsius);
     fahrenheit = (celsius * 9/5) + 32;
-    printf("Fahrenheit = %d", fahrenheit);
+    printf("Fahrenheit = %f", fahrenheit);
     return 0;
 }
 
@@ -28,5 +28,6 @@ int main()
 Variable Description:
           VARIABLE           TYPE                             PURPOSE
           celsius            float                   Input radius of the Circle
-         fahrenheit      float         Calculate Area and Circumference of the Circle
+         fahrenheit          float         Calculate Area and Circumference of the Circle
+
 */

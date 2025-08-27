@@ -27,7 +27,8 @@ int main()
 /*
 Variable Description:
           VARIABLE           TYPE                             PURPOSE
-          celsius            float                   Input radius of the Circle
-         fahrenheit          float         Calculate Area and Circumference of the Circle
+          celsius            float                   Input Temperature in celsius
+         fahrenheit          float              Calculate Temperature in Fahrenheit
 
 */
+

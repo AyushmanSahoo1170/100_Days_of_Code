@@ -25,9 +25,13 @@ int main()
     printf("Enter a year : ");
     scanf("%d", &year);
     if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+    {
         printf("Leap Year\n");
+    }
     else
+    {
         printf("Not a Leap Year\n");
+    }
     return 0;
 }
 
@@ -35,4 +39,5 @@ int main()
 Variable Description:
        VARIABLE        TYPE                       PURPOSE
          year          int      Input year to check if it is a leap year or not
+
 */

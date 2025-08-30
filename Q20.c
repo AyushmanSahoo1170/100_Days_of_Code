@@ -44,6 +44,7 @@ int main()
         break;
         default:
         printf("Invalid Input! Please enter a number between 1 and 7.\n");
+        break;
     }
     return 0;
 }
@@ -51,4 +52,5 @@ int main()
 /*
        VARIABLE        TYPE                        PURPOSE
          day           int         Input number to determine the day of the week  
+
 */

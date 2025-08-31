@@ -28,6 +28,7 @@ int main()
 /*
 Variable Description:
           VARIABLE           TYPE                           PURPOSE
-      lenght, breadth        int            Input length and breadth of the Rectangle
+      length, breadth        int            Input length and breadth of the Rectangle
       area, perimeter        int          Calculate Area and Perimeter of the Rectangle
+
 */

@@ -50,7 +50,9 @@ int main()
 }
 
 /*
+Variable Description:
        VARIABLE        TYPE                        PURPOSE
          day           int         Input number to determine the day of the week  
 
 */
+

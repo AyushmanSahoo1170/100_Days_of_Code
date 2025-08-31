@@ -57,6 +57,8 @@ int main()
 }
 
 /*
+Variable Description:
        VARIABLE        TYPE                        PURPOSE
       percentage       int           Input percentage to determine the grade
+
 */

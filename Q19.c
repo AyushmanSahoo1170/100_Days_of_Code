@@ -40,8 +40,10 @@ int main()
 }
 
 /*
+Variable Description:
        VARIABLE        TYPE                        PURPOSE
         side1          int         Length of the first side of the triangle
         side2          int         Length of the second side of the triangle
         side3          int         Length of the third side of the triangle
+
 */

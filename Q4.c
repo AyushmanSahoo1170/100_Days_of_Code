@@ -17,7 +17,7 @@ Area=28.27, Circumference=18.85
 int main ()
 {
     float radius, area, circumference, PI = 3.14159;
-    printf("Enter the radius of the cirle:\n");
+    printf("Enter the radius of the circle:\n");
     scanf("%f", &radius);
     area = PI * radius * radius;
     circumference = 2* PI * radius;
@@ -31,4 +31,5 @@ Variable Description:
            radius            float                   Input radius of the Circle
     area, circumference      float         Calculate Area and Circumference of the Circle
              PI              float                       Constant value of PI
+
 */ 

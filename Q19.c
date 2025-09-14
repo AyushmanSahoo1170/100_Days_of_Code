@@ -24,7 +24,7 @@ int main()
     int side1, side2, side3;
     printf("Enter the lengths of the three sides of the triangle : ");
     scanf("%d %d %d", &side1, &side2, &side3);
-    if(side1 == side2 && side2 == side3)
+    if(side1 == side2 && side2 == side3 && side3 == side1)
     {
         printf("It's an Equilateral Triangle\n");
     }
@@ -47,3 +47,4 @@ Variable Description:
         side3          int         Length of the third side of the triangle
 
 */
+
